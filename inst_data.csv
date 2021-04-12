@@ -1,0 +1,630 @@
+,title,name
+0,Чехов,chehov.cafe
+1,Yummy Coffee to Go,yummy.coffee
+2,Добры кут,dobrykut
+3,Панский Драник,pansky_dranik
+4,Раковский Бровар,rakovskij_brovar
+5,Пипл'с,taler_beer
+6,Паб 1067,pub1067
+7,Кафе Гнездо,gnezdo.minsk
+8,Morella,morella_restaurant
+9,Хинкальня,hinkalnyaminsk
+10,KFC,kfcbyofficial
+11,L'angolo Italiano,langolo.italiano
+12,Пинса Романа,pinsa.romana.by
+13,Cimes,cimes.minsk
+14,Beans&Leaves cafe,beansleaves
+15,Ember,ember_minsk
+16,Васильки,restoran.vasilki
+17,Fabriq,fabriq_minsk
+18,Бамбук,bamboo_minsk
+19,Barcarola,barcarolaminsk
+20,Поющий центр,centr_karaoke
+21,Burger King,burgerkingbelarus
+22,Burger King,burgerkingbelarus
+23,Чижовка-Арена,chizhovka__arena
+24,Burger King,burgerkingbelarus
+25,Burger King,burgerkingbelarus
+26,Додо Пицца,dodopizza.minsk
+27,Додо Пицца,dodopizza.minsk
+28,Пицца Domino's Pizza,dominosby
+29,Виталюр,vitalur_by
+30,Хит!,pizzahit.by
+31,Макдональдс,mcdonalds_belarus
+32,Твоё кафе,tvoyo_cafe
+33,Appetito.by,djvu_catering
+34,Пон-пушка,pon_pushka
+35,Шоколад,restoran_club_shocolad
+36,Балук,cafebaluk.by
+37,Пышки,puff8bel
+38,Miss Pirozhenka,miss_pirozhenka
+39,Терра pizza,terrapizza
+40,Вкус Жизни,vkus_coffeeshop
+41,Coffee Print,_coffeeprint_
+42,Каравай,minskhleb_by
+43,ElPatron Minsk,1wilz4v4dxlu6
+44,Salty Dog,saltydog.underground
+45,Донер ФУД,food_doner
+46,Smartgrill,smartgrill.by
+47,ПиццаМания Токио,pizzamaniaby
+48,Кофе профиль,coffeeprofil
+49,MC Doner point,mcdoner.by
+50,ХотDонер,hotdoner_minsk
+51,Cofix,cofix_belarus
+52,Лондон,pizzamaniaby
+53,Сатурн,saturnclubminsk
+54,Prime Cafe,primecafeminsk
+55,20 50,2050coffee
+56,Кофеёк,kofe_ek
+57,Первый Пивной Паб,1pivnoi_pab.minsk
+58,Mon nom,monnombar
+59,SteFan,relaxby
+60,Yummy Coffee to Go,yummy.coffee
+61,Мясоруб Минск,edatut.by
+62,Борщ,fan_ezha
+63,Просуши,prosushi.by
+64,Кофейня,1yemz4cohnro
+65,Grill kebab,grillkebab_minsk
+66,Спортклуб Волат,volat_club_belarus
+67,CoffeeBro,coffeebro_minsk
+68,Yummy Coffee to Go,yummy.coffee
+69,Зеро Зеро Пицца,zerozerominsk
+70,Evo,restaurant_evo
+71,Терра Пицца,Terrapizza
+72,Halo coffee,coffee_halo
+73,Tortas.by,tortas.by_minsk
+74,Тепло,teplo_cafe
+75,Black Velvet,black_velvet_cafe
+76,Пицца Темпо,pizzatempo
+77,Burger King,burgerkingbelarus
+78,Богема,bogemakaraoke
+79,Burger King,burgerkingbelarus
+80,Додо Пицца,dodopizza.minsk
+81,Salad Drive,saladdrive
+82,Baldenini,baldenini_cafe
+83,KFC,kfcbyofficial
+84,Хола,hola_cafe_minsk
+85,Кино вино,kinovino.by
+86,Yummy Coffee,yummy.coffee
+87,Пицца Темпо,pizzatempo
+88,Seadog&Friends,
+89,Ecoist,ecoist_cafe
+90,Cakes.by Новая Боровая,cakesby_nb
+91,Дражина,drazhynbakery
+92,Додо Пицца,dodopizza.minsk
+93,Додо Пицца,dodopizza.minsk
+94,Суши Додзё,sushi_dodzyo
+95,Pizza Time,pizza_time_minsk
+96,Salad Drive,unitedcompany
+97,Grill Kebab - Зеленый Луг,grillkebab_minsk
+98,Гранде Пицца,grandepizza_minsk
+99,Шаверма на подкове,podkova.h
+100,СООБЩЕСТВО,community_coffeeshop
+101,Шам,sham_kafe
+102,Bacaro,cafe.bacaro
+103,Оникс,kafe_oniksminsk
+104,Перспектива Кофе,perspectiva.coffee
+105,Tokio Sushi,tokyo_sushi_minsk
+106,Coffee Everyday,coffee_everyday_cafe
+107,Город М,cafe_gorodm
+108,Место Замечательных Людей,pizzamania_m.z.l
+109,The Kitchen Nail & Coffee,thekitchen.by
+110,Темпо,pizzatempo
+111,Buno,cafebuno
+112,Кофеёк,kofe_ek2.0
+113,Васильки,restoran.vasilki
+114,Чаплин,22968210
+115,Coffee Ok,coffeeok_minsk
+116,Ваниль,cafe_vanila
+117,Prime Time,prime_time_restoran
+118,Футурис кофейня,futuriscoffee
+119,Пицца Domino's Pizza,dominosby
+120,Cofix,cofix_belarus
+121,Buffet,buffetminsk
+122,Nelly Coffee,nelly_coffee_minsk
+123,Burger King,burgerkingbelarus
+124,Додо Пицца,dodopizza.minsk
+125,KFC,kfcbyofficial
+126,Bergamo,ristorante_bergamo
+127,Coffee Everyday,coffee.everyydayy
+128,Друзья,druzya_brewery
+129,Ronin,ronin.by
+130,Донер Сити,donercity
+131,Колесо,Koleso_gastropub
+132,Шаурмадзе,Shaurmadze
+133,Кофейня,cofsho
+134,Живой Хлеб,zhivoyxleb
+135,Burger King,burgerkingbelarus
+136,Додо Пицца,dodopizza.minsk
+137,Желтый слон,cafe_yellow_slon
+138,Сицилия,pizza_sicily
+139,Пан Круассан,pankruassan
+140,Марани,maraniminsk
+141,Всёсразу,vsesrazyminsk
+142,KFC,kfcbyofficial
+143,Salateira,salateira.by
+144,Daily Dose,daily_dose_minsk
+145,Чайхана сити,chaihana_city
+146,Beef&Beer,beefandbeer_minsk
+147,Просуши,prosushi.by
+148,Maroon,maroonminsk
+149,Замок,tc_zamok
+150,Кофейня,embassy_bakery
+151,Paul,paul.belarus
+152,Lavazza club,lavazza_club
+153,Belvedere,tc_zamok
+154,Замок,tc_zamok
+155,Burger King,burgerkingbelarus
+156,Papa John's Pizza,papajohnsby
+157,Макдональдс,mcdonalds_belarus
+158,Пицца Темпо,pizzatempo
+159,KFC,kfcbyofficial
+160,Yummy Coffee,yummy.coffee
+161,Терра Пицца,terrapizza
+162,Пицца Темпо,pizzatempo
+163,Гранд Кушавель,grand_kushavel_restaurant
+164,БРО бейкери,brobakerycafe
+165,Salad Drive,unitedcompany
+166,Bloom Eatery,bloomeatery_minsk
+167,Сальвана Кофе,salvanacoffee
+168,YouCoffee,youcoffeeby
+169,Шедевры вкуса,shedevry.vkusa.minsk
+170,Лебяжий,lebyaziy_rest
+171,Velmi,velmi_by
+172,Beauty zone & cafe for you,4you.minsk
+173,Кофейня 28,28.coffee
+174,Додо Пицца,dodopizza.minsk
+175,Burger King,burgerkingbelarus
+176,Burger King,burgerkingbelarus
+177,Додо Пицца,dodopizza.minsk
+178,Додо Пицца,dodopizza.minsk
+179,Фудтрак EzhaBus,ezhabus
+180,Васильки,restoran.vasilki
+181,KFC,kfcbyofficial
+182,33 Пингвина,33pingvina_belarus
+183,Пицца Темпо,pizzatempo
+184,Мiа фамiлiа,mia_familia_cafe
+185,Sushi Sun,sushisun.by
+186,Зефир,bufet_35
+187,KFC,kfcbyofficial
+188,Chef Grill,chef.gril
+189,Джангл Лаунж,jungle_lounge
+190,Неаполь,cafe_neapol
+191,Додо Пицца,dodopizza.minsk
+192,Puzzle Pizza,puzzlepizza.by
+193,Burger King,burgerkingbelarus
+194,Кофе поинт Lavazza от СИБА-Кафе,lavazza.point
+195,Хмельная застава,cafe_zastava
+196,Пицца Темпо,pizzatempo
+197,Hotfix coffee,hotfixcafe
+198,Просуши,prosushi.by
+199,Varka coffee,varkacoffee.minsk
+200,Варка Кофе,varkacoffee.minsk
+201,Луна,coffee.luna
+202,Wanted Coffee,coffeewanted.by
+203,Море суши,moresushi_minsk
+204,Джинджер,gingerclub.minsk
+205,Мышкин двор,myshkin_dvor
+206,Журавли,zhuravli_kafe
+207,Hotfix coffee,hotfixcafe
+208,BarriCoffee,barri_coffee
+209,KFC,kfcbyofficial
+210,Hotfix coffee,hotfixcafe
+211,KFC,kfcbyofficial
+212,Васильки,restoran.vasilki
+213,Billie Jean,billiejean.bar
+214,Время есть,vremjaest
+215,Суши Весла take away,sushivesla
+216,Цiмохiн двор,timohin_dvor
+217,Terra Pizza,terrapizza
+218,Тантуни Донер,tantuni.doner
+219,Lotus Bubble Green City,lotus_bubble
+220,МС Донер,mcdoner.by
+221,Golden Coffee,golden_coffee_bakery
+222,Terra Pizza,terrapizza
+223,Cofix,cofix_belarus
+224,Хинкальня,hinkalnyaminsk
+225,KFC,kfcbyofficial
+226,Gan Bei,ganbei_by
+227,Пицца Domino's Pizza,dominosby
+228,Станция,Coffee_metro_minsk
+229,KFC,kfcbyofficial
+230,Хинкальная,hinkali_minsk
+231,Sushi Chef Arts,sushichefarts_minsk
+232,Garage food&coffee,cafegarageby
+233,Кафе Восток,kafe_vostok_minsk
+234,Перспектива кофе,perspectiva.coffee
+235,Кофе профиль,coffeeprofil
+236,Doner King,donerking.by
+237,Sushi master,sushimaster.minsk
+238,Papa John's Pizza,papajohnsby
+239,Viv cafe,vivcafecamelot
+240,Smile Coffee,smile_coffee_minsk
+241,Red cup,coffeeprofil
+242,Пицца Темпо,pizzatempo
+243,Кофе профиль,coffeeprofil
+244,Кофе Саунд,coffeesoundby
+245,Додо Пицца,dodopizza.minsk
+246,Пицца Domino's Pizza,dominosby
+247,Шаурмашечка,AmberBoxCafe
+248,Шауroom,shayroom_cafe
+249,Caffisso,caffisso
+250,Пицца Темпо,pizzatempo
+251,Papa John's Pizza,papajohnsby
+252,Salad-drive.by,unitedcompany
+253,Гриль Хауз,grillhouseminsk
+254,MC Doner,mcdoner.by
+255,Кофе Саунд,coffeesoundby
+256,Суши Весла take away,sushivesla
+257,Hotfix coffee,hotfixcafe
+258,KFC,kfcbyofficial
+259,Easy Soup,easysoup.minsk
+260,Пицца Темпо,pizzatempo
+261,Garage food&coffee,cafegarageby
+262,Бистро Хлеб соль,cafe.minsk
+263,Пицца Domino's Pizza,dominosby
+264,Persian kebab,persian_kebab_
+265,Wood Coffee House,wood_coffee_house
+266,Amato Coffee,amato.coffee
+267,Hata,hata.cake_coffee
+268,Burger King,burgerkingbelarus
+269,Burger King,burgerkingbelarus
+270,Дастархан,1dlcv71txqjg3
+271,Pin Coffee,r4mq7zidcrnp
+272,Пит Stop,koronaby
+273,Икомпот,i.kompot
+274,Yummy Coffee,yummy.coffee
+275,Sporting Club,sportingclub
+276,Ginger Coffee,ginger_coffee
+277,Перспектива. кофе Уручье,perspectiva.uruchye
+278,Terra Pizza,terrapizza
+279,Вкус Востока,cafevkusvostoka
+280,Energy coffee,_energy_coffee_
+281,Salty Dog,saltydog.underground
+282,Dali,dali.coffee
+283,KFC,kfcbyofficial
+284,Пицца Domino's Pizza,dominosby
+285,Футурис кофейня,futuriscoffee
+286,6b Caffe,6b_kava_spectr
+287,Кофе Саунд Спектр,coffeesoundby
+288,PapaDoner,papadoner.by
+289,Макдональдс,mcdonalds_belarus
+290,Время кофе,Coffee_uruchie
+291,Knok Knok,knok.knok.minsk
+292,Jazz Coffee,jazz.coffee
+293,Coffee room,buffetminsk
+294,Кофта,coffeekofta
+295,Терапия,coffee_terapia
+296,Black Star Burger,minsk_blackstarburger
+297,Chef Simit,chefsimit
+298,Coffee Fox,coffee_fox_minsk
+299,Hotfix coffee,hotfixcafe
+300,Кофейное пространство Fabrika,fabrika.coffee_space
+301,Easy Soup,easysoup.minsk
+302,Культура еды,1wra5epe7z87q
+303,ФрендсФиш,friendsfish_shop
+304,Пицца Темпо,pizzatempo
+305,Gan Bei,ganbei_by
+306,Salateira,salateira.by
+307,Васильки,restoran.vasilki
+308,The Coffee Room,thecoffeeroom_minsk
+309,Тьерри,thierry_bakery
+310,Суши Мастер,sushimaster.minsk
+311,Прошуттерия,prosciutteria_minsk
+312,Edu Cafe Belarus,Educafeminsk
+313,Граф Кафе,grafcafe
+314,Coyote,bar_coyote
+315,Time of Coffee,timeofcoffee
+316,Wood & Fire,wood_fire_
+317,Культура,cafecultura.by
+318,Белые росы,belrosy.minsk
+319,One More,onemorecoffeeroasters
+320,Мята Lounge,myata.lounge.minsk
+321,Took Coffee,took_coffee
+322,Cubby,cubby12b
+323,Bar Sapphire,sapphire_bar_makaenka
+324,Мадлен,1l3h32yd50jdi
+325,Wood Coffee House,wood_coffee_house
+326,Мостик.by,mostic_restaurant
+327,Территория Кофе,territoriya.coffee
+328,Eatery,eatery.minsk
+329,Перспектива кофе,perspectiva.coffee
+330,Брусничная,st_brusnika
+331,Lavazza,lavazza.point
+332,Супер Медовики,supermedoviki
+333,Pizza Tempo,pizzatempo
+334,Burger King,burgerkingbelarus
+335,Kavka,kavka_kafe
+336,Эль Буррито,elburrito_doner
+337,Beer mania,beermania_minsk
+338,Васильки,restoran.vasilki
+339,Cofix,cofix_belarus
+340,Кофе профиль,Coffeeprofil
+341,Coffee Line,coffee_line.by
+342,План Б,planb.bar.karaoke
+343,Yummy Coffee to Go,yummy.coffee
+344,Papa John's Pizza,papajohnsby
+345,Doner King,donerking.by
+346,The Coffee Room,thecoffeeroom_minsk
+347,Академия,restaurant_akademiya_minsk
+348,MixShop,mixshop.minsk
+349,KFC,kfcbyofficial
+350,Версаль,cafe_versailles
+351,Квартира № 3,kvartira_3
+352,Freak Shake,freakshake_minsk
+353,Ю кофе,youcoffeeby
+354,Кофейная кухня,coffeekuhnia
+355,Блэк Бутчер,blackbutcher.by
+356,Wake Up Coffee,wakeup_coffee
+357,Lidbeer bar Светлы,lidbeerbar
+358,Лидо,restaurant_lido
+359,Старые традиции,starie_tradicii
+360,Станция,coffee_metro_minsk
+361,Coffee Joy,coffee_joy
+362,PizzaRest,pizzarest_minsk
+363,Съем Сам,siem_sam
+364,Чёпечём бай,4epe4em
+365,Пекаридзе,Pekaridze.minsk
+366,Жбан,zhbankafe
+367,Гвоздь,pubgvozd
+368,Lidbeer bar Тёмный,lidbeerbar
+369,Coven Coffee House,coven.by
+370,Clever Irish Pub,cleverminsk
+371,Рибро,rib_raw
+372,Эклер,eklaircoffee
+373,Hotfix coffee,hotfixcafe
+374,Кофе Место,coffee_mesto
+375,Зерно,cafezerno
+376,Prisma Eventplace,prisma.minsk
+377,Зерно,cafezerno
+378,Штолле,stolle_minsk
+379,Мука,Myka.cafe
+380,Veg Harmony,veg.harmony.cafe
+381,Seadog&Friends,seadogfriends
+382,Перспектива,perspective.coffee
+383,Animal Farm,animalfarm_minsk
+384,Мини-кафе,unity_coffee_minsk
+385,Charlie,charlierestbar
+386,Coffee Wanted,coffeewanted.by
+387,Скиф,skifcafe
+388,Fresh Cafe,Freshcafe_minsk
+389,Пробар-Коммунарка,kommunarka_probar
+390,Bierkeller,bierkeller_minsk
+391,Золотой Гребешок,zg_pobedy
+392,Rivoli,cafe.rivoli
+393,Берёзка,berezka_minsk
+394,Coffee Embassy,coffee_embassy_msq
+395,Moby Dick,mobydick_caffe
+396,Камяніца,kamyanitsa.by
+397,Burger King,burgerkingbelarus
+398,Додо Пицца,dodopizza.minsk
+399,Товарищ,tovarisch_cafe
+400,Патриот,patriot_bar_minsk
+401,Union Coffee,unioncoffee
+402,Кухмистр,kuhmistr
+403,Перестройка,perestroikabar
+404,Станция,coffee_metro_minsk
+405,ИльПатио,il_patio_minsk
+406,TGI FRIDAYS,fridays_minsk
+407,Свои,restoransvoi
+408,Шоколадница,shoko_minsk
+409,Daily Dose,daily_dose_minsk
+410,Шоколадница,shoko_minsk
+411,Кафе-пироговая Штолле,stolle_minsk
+412,Mona bistro,monabistro.minsk
+413,Honky Tonk,honkytonkminsk
+414,Полугар бар,polugarbarminsk
+415,Paul,paul.belarus
+416,Чайный пьяница,ig_profile_share
+417,Т.Н.Е Бургер,t.h.e_burger
+418,Нора,nora25a
+419,La Piazza,lapiazza.minsk
+420,Т.Н.Е Бургер,t.h.e_burger
+421,Чернила,chernila.bar
+422,Брют,brut_cafe
+423,Maslow6,maslow6_minsk
+424,Хинкальня,hinkalnyaminsk
+425,Рестопаб Госцi,gosti_restopub
+426,Пена Дней,bistro.mood.indigo
+427,Doner King,donerking.by
+428,Перспектива,perspectiva.coffee
+429,Lugano,lugano_restaurant
+430,Mad Rabbit,mad.rabbit.bar
+431,Гримерка,grimerka_bar
+432,Don Coffe'on,doncoffeon
+433,Туманы,bartumany
+434,Coffeeberry,coffeeberry_by
+435,ZAVTRAKI 24,zavtraki24
+436,Лес,les_gastrobar
+437,Leone,leone_msq
+438,The Moods,themoodsminsk
+439,На Пляже,na.plyazhe
+440,Malt & Hops,maltandhops
+441,Bun Burger,bunb.by
+442,Депо,depomiensk
+443,Чердак,cherdakbar_minsk
+444,Draniki,draniki_rest
+445,Svobody. 4,svobody.4
+446,Гамбринус,gambrinusminsk
+447,Бессонница,bar_insomnia
+448,Stories,Stories_minsk
+449,Darling bistro bar,darling.minsk
+450,Blasercafe,blasercafe.by
+451,Время,vremyabar
+452,Дом,dom.rest
+453,Umami Neobistro,umami.neobistro
+454,Моя дорогая,dorogaya2002
+455,Grand,grand_cafe_minsk
+456,Закон бутерброда,zakonbuterbroda
+457,Двор 28/26,dvor2826
+458,Perfetto,perfetto_minsk
+459,Inclusive Barista,inclusive_barista
+460,Hi5,hi5metropol
+461,Tapas bar,tapasbar.by
+462,Pinky Bandinsky,pinky_bandinsky
+463,Osteria la Bruscetta,osteria_la_bruscetta_minsk
+464,Васильки,restoran.vasilki
+465,Лидо,restaurant_lido
+466,TNT,tntrockclub
+467,Ресторан 101,101rest.minsk
+468,Pelican,pelican.piano.bar
+469,Ristorante da Claudio,da_claudio_minsk
+470,Хинкальня,hinkalnya_marksa
+471,Cafe de Paris,cafedeparisminsk
+472,Чумацький Шлях,chumaczki_shlyakh_minsk
+473,BlackBerry,cafeblackberryby
+474,Marconi,cafe_marconi
+475,Michel,michelcafe.minsk
+476,The Odi,odi.by
+477,La Scala Trattoria Ignazio,lascalatrattoria
+478,Кофевариум. кофе&эмоции,coffeevarium
+479,Doner King,donerking.by
+480,Robert Roose,robert.roose.by
+481,KaraKum,karakum.by
+482,Юджын Крабс,1r0xwzahjwufn
+483,ФанЕжа,fan_ezha
+484,Bar & Shop 0.75,barshop0.75
+485,Коммунарка,kommunarka.by
+486,Arborea,renaissanceminskhotel
+487,Амели,amelie_minsk
+488,Уха из петуха,yxa.iz.petyxa.by
+489,KFC,kfcbyofficial
+490,Перспектива,perspective.coffee
+491,Кофе Саунд,coffeesoundby
+492,Sen Hanoi,senhanoi
+493,Элит-Кейтеринг,elite_catering.by
+494,Home-bar MariVanna,homebarmarivanna
+495,Hops,magazin_bar_hops
+496,Gray House,_grayhouse
+497,Булочки,bulochki.by
+498,Buno,cafebuno
+499,Суши Весла,sushivesla
+500,Doner King,donerking.by
+501,Пицца Domino's Pizza,dominosby
+502,Шишка Lounge Restaurant,shishka.minsk
+503,Bbj Burger & Bar,bbj.by
+504,Peaky Blinders,pb.minsk
+505,Билли Джойс,billy.joys
+506,Cofix,cofix_belarus
+507,Blackcups,blackcupsminsk
+508,Garage food&coffee,cafegarageby
+509,KFC,kfcbyofficial
+510,Вестфалия,westfalia.restaurant
+511,Took Coffee,took_coffee
+512,Salad Drive,saladdrive
+513,Додо Пицца,dodopizza.minsk
+514,Донер Мастер,17jb25qzg0n8j
+515,KFC,kfcbyofficial
+516,Макдональдс,mcdonalds_belarus
+517,Boo Coffee,1ww3563r0d3s
+518,Yummy Coffee,yummy.coffee
+519,My family coffee,my_family_coffee
+520,Паб Еда,pabeda_pub
+521,Ресторан Магнат,magnat_restoran
+522,Кафеоль,cafeole.by
+523,Coffee Life,coffee_life_minsk
+524,Cafeole,cafeole.by
+525,Кофе Саунд,coffeesoundby
+526,Кофе Саунд,coffeesoundby
+527,Кофе-Плюс,Coffeeplusby
+528,Buno Cafe,cafebuno
+529,Domino’s Pizza,dominosby
+530,Easy Soup,easysoup.minsk
+531,Stolle,stolle_minsk
+532,Brunch&Lunch,cafe.brunch.lunch
+533,Sultan cafe,sultancafeminsk
+534,Texas Chicken,texaschickenbelarus
+535,Hero Pizza,heropizza.by
+536,Garage food&coffee,cafegarageby
+537,Dolce,dolce_minsk
+538,Moulin,cafe.moulin
+539,Burger King,burgerkingbelarus
+540,Zefir,q6ujux6uwlhi
+541,Ласкава,laskava_minsk
+542,60 Зерен,60zeren
+543,Coffeel,cafe.coffeel
+544,АвiЯтор,cafe.aviyatar
+545,Urbanfood,urbanfood.by
+546,TokiNY,tokiny_noodles
+547,Edu Cafe Belarus,Educafeminsk
+548,Тимохин Закуток,t.z_malinovka
+549,Beerpub,beer_pub_minsk
+550,Пон-пушка family,pon_pushka
+551,Bonjour,bonjour__coffee
+552,Palermo,palermo_minsk
+553,Пицца Domino's Pizza,dominosby
+554,Амстердам,koronaby
+555,Шаурма,shava_minsk
+556,Papa John's Pizza,papajohnsby
+557,Garage food&coffee,cafegarageby
+558,Шавермыч,shavermych1
+559,KawaUp,kawaup
+560,Вано,gruzinskaya_pekarnya_vano
+561,Фамилия,familia.cafe.bar
+562,OkeyCoffee,okey.coffee
+563,Шам,8hc5ia3kkpmy
+564,Домик сторожа,domik_vartaunika
+565,Гриль ФУД Драйв,grillfooddrive
+566,Verrine,verrineminsk
+567,Lavazza Club,lavazza_club
+568,Bread & Vine,breadvine.by
+569,You Coffee,youcoffeeby
+570,Coffee Art,coffee_art_minsk
+571,Бейкери дю солей,bakerydusoleil
+572,Огинский,cafe_aginski
+573,Пицца Domino's Pizza,dominosby
+574,Moon coffee,moon_coffee_minsk
+575,Особое место,osoboe.mesto.minsk
+576,Cafe35,cafe35minsk
+577,Футурис кофейня,futuriscoffee
+578,Bagel House,bagelhouse.by
+579,Union Coffee,unioncoffee
+580,Манеки,11sffdapd01iv
+581,Easy Soup,easysoup.minsk
+582,Пицца Темпо,pizzatempo
+583,Балкон,cafe.balkon
+584,Dreva,dreva.minsk
+585,Woogly,woogly_minsk
+586,Васильки,restoran.vasilki
+587,Underdog,underdog.minsk
+588,BurgerLab,burgerlab.by
+589,Китчен Кофе Ростерс,kitchencoffeeroasters
+590,BackDoor,backdoor.bar
+591,Middle Ground,middleground.fbi
+592,Чб кофе с собой,coffee.chb
+593,PizzaMania,pizzamaniaby
+594,Кофе профиль,coffeeprofil
+595,Кофе,coffee_metro_minsk
+596,Doner King,donerking.by
+597,GARAGE food&coffee,cafegarageby
+598,Sherlock coffee hall,sherlock_coffee_hall
+599,Why Knot?,whyknotcoffee
+600,Campus,campus_okt8
+601,Doza coffee,Doza_coffee_minsk
+602,Pinch,pinch_streetfood
+603,Я ж тебе говорил!,mesto_pro_edu
+604,Кофейня № 26,26_sverdlova
+605,Surf Coffee,surfcoffee.minsk
+606,Burger King,burgerkingbelarus
+607,Тьерри,thierry_bakery
+608,News Cafe,newscafe
+609,Хлеб Соль,cafe.minsk
+610,Перспектива,perspectiva.coffee
+611,Italiano,italianominsk
+612,Aura,auraclub_minsk
+613,Yummy Coffee to Go,yummy.coffee
+614,Green+Go,greengo.minsk
+615,Стейк-кафе Жадина-говядина,steik.by
+616,Кафе 4,1ihgi36wjsju2
+617,Коммунарка,kommunarka.by
+618,Ammy Yummy,barbeque_drive_minsk_
+619,Pizza Smile,pizzasmile
+620,Станция,coffee_metro_minsk
+621,Everyday,coffee.every.day
+622,Coffee mini,coffee_mini_
+623,Осетинские пироги,pirogi_by
+624,Рестобар 4v,restobar_4v
+625,Пицца Domino's Pizza,dominosby
+626,32.08 Вечное Лето,coffee32.08
+627,Кафе Golden Coffee,golden_na_bogdanovicha
+628,Золотой гребешок,zolotoigrebeshok
